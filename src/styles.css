@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.post-body p {
+  color: red;
+}
+
+.post-body img {
+  border: 3px solid red;
+}
